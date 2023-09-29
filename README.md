@@ -28,4 +28,4 @@ https://assetstore.unity.com/packages/3d/characters/easy-primitive-people-161846
 
 The music used was actually made by me! :) 
 
-Since this is a unity project, you can start the game with the play button.
+Since this is a unity project, you can start the game with the play button in the opened project!
