@@ -1,6 +1,8 @@
 # something-new-3D-FPS
 3D Shooter-Style game I created for my first design project for Software Engineering 1 
 
+EDIT: I added a highscore screen where you can view previous highscores as well!
+
 How it works:
 
 The game starts off at the main menu screen where you can select two options:
