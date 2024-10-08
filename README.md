@@ -1,7 +1,5 @@
-# something-new-3D-FPS
+# Software Engineering I - First Person Shooter in Unity 
 3D Shooter-Style game I created for my first design project for Software Engineering 1 
-
-EDIT: I added a highscore screen where you can view previous highscores as well!
 
 How it works:
 
@@ -9,6 +7,8 @@ The game starts off at the main menu screen where you can select two options:
 
 Start -- Will send you to the level select screen 
 Quit  -- Will quit the game 
+
+I added a highscore screen where you can view previous highscores as well. 
 
 At the level select, you can select from 2 premade levels, each with different 
 amounts of enemies and civilians. 
